@@ -1,0 +1,9 @@
+# Ignore VSCode settings
+.vscode/
+
+# Ignore compiled binaries
+*.o
+*.exe
+
+# Ignore build folders
+build/
